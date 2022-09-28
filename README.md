@@ -1,5 +1,1 @@
--Netflix is the world’s leading internet entertainment service with 158 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. I was curious to analyze the content released in Netflix platform which led me to create these simple, interactive and exciting visualizations with Tableau.
 
--The dataset used in this EDA project is taken from Kaggle. Data has 12 columns which include show id, title, type, director, cast, country, release year, description, rating and genre of the movies/TV shows. Type column gives if each record is a movie or Tv show. Country column has all the countries a movie or show is released. Each movie or show belongs to one or more genres which is mentioned in the genre column separated by commas.
-
--Netflix platform even has the content which was originally released in 1965. For a better visual I have only displayed the releases from 2008. We observe that initially the percentage of movies is higher than TV shows. Movies and Tv shows are predominantly focused on documentaries,Stand-up, international, dramas and comedies.
